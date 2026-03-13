@@ -2,7 +2,7 @@
 
 AI图像工坊是一个基于深度学习的多功能图像处理工具箱，集成了风格迁移、去噪、修复、生成和背景去除等多种AI图像趣味玩法和实用功能，并具有一个可视化界面。
 
-
+![image]([图片路径](https://github.com/XuanY14/AI-Image-Workshop/blob/master/image.png))
 
 ## 🚀 快速开始
 
